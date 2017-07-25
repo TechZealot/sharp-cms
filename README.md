@@ -8,3 +8,4 @@ sharp cms system
 4. redis
 5. MapDB
 6. MySQL
+7. Vue+element
